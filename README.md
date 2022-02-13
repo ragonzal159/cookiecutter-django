@@ -107,7 +107,7 @@ Answer the prompts with your own desired [options](http://cookiecutter-django.re
     description [Behold My Awesome Project!]: A reddit clone.
     author_name [R. Gonzalez]: R. Gonzalez
     domain_name [example.com]: myreddit.com
-    email [daniel-greenfeld@example.com]: <automatically generated email from domain name>
+    email [r-gonzalez@example.com]: <automatically generated email from domain name>
     version [0.1.0]: 0.0.1
     Select open_source_license:
     1 - MIT
